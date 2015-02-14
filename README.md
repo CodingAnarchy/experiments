@@ -5,5 +5,5 @@ Feb 13, 2015: Using "Seven Languages in Seven Weeks" book
 
 
 * Ruby
-* Io (help up because of trouble installing)
+* Io (held up because of trouble installing)
 * Prolog
