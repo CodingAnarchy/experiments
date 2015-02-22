@@ -8,4 +8,9 @@ Feb 13, 2015: Using "Seven Languages in Seven Weeks" book
 * Io (held up because of trouble installing)
 * Prolog
 * Scala
-* Erlang
+* Erlang 
+* Clojure (no non-command line examples)
+
+Feb 21, 2015:
+
+* Haskell
